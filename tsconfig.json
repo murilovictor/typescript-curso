@@ -1,3 +1,6 @@
 {
-    
+    "compilerOptions": {
+        "outDir": "dist", // caminho dos arquivos compilados
+        "noEmitOnError": true // Garante que o compilador não compile caso os tipos de variaves sejam invalida
+    }
 }
